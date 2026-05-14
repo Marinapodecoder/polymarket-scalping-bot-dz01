@@ -1,4 +1,4 @@
-# 
+# Enhance your Polymarket trading with Polymarket smart Trading Bot: volatility-detection & price-monitoring, the #1 trading-bot. Includes volatility-detection and price-monitoring
 
 
 
